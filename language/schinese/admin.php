@@ -1,5 +1,5 @@
 <?php
-// $Id: admin.php,v 1.1.1.1 2005/11/10 19:51:18 phppp Exp $
+// $Id$
 // _LANGCODE: zh-CN
 // _CHARSET : gb2312
 // Translator: A.D.Horse, http://www.tv-io.com

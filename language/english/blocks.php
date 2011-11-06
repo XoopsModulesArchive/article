@@ -1,5 +1,5 @@
 <?php
-// $Id: blocks.php,v 1.1.1.1 2005/11/10 19:51:18 phppp Exp $
+// $Id$
 // _LANGCODE: en
 // _CHARSET : ISO-8859-1
 // Translator: D.J., http://xoopsforge.com, http://xoops.org.cn
