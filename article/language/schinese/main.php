@@ -15,275 +15,275 @@ if(defined($GLOBALS["ART_VAR_PREFIXU"]."_LANG_GB_MAIN")) return;
 define($GLOBALS["ART_VAR_PREFIXU"]."_LANG_GB_MAIN",1);
 
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INVALID", "ÎÞÐ§²Ù×÷");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INVALID","ï¿½ï¿½Ð§ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOACCESS", "±§Ç¸£¬ÄúÉÐÎÞÈ¨ÏÞ¡£ÇëµÇÂ¼»ò×¢²á¡£");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOACCESS","ï¿½ï¿½Ç¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¨ï¿½Þ¡ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½×¢ï¿½á¡£");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEXTEMPTY", "¿ÕÎÄ±¾");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INSERTERROR", "Êý¾Ý±£´æ·¢Éú´íÎó");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEXTEMPTY","ï¿½ï¿½ï¿½Ä±ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INSERTERROR","ï¿½ï¿½ï¿½Ý±ï¿½ï¿½æ·¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWARTICLE", "ÐÂ½¨ÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TITLE", "±êÌâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_AUTHOR", "×÷Õß");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUMMARY", "ÕªÒª");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BODY", "ÕýÎÄ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SORTBY", "ÅÅÐò");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWARTICLE","ï¿½Â½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TITLE","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_AUTHOR","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUMMARY","ÕªÒª");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BODY","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SORTBY","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVED", "Êý¾ÝÒÑ±£´æ");;
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMITED", "ÒÑÌá½»");;
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVED","ï¿½ï¿½ï¿½ï¿½ï¿½Ñ±ï¿½ï¿½ï¿½");;
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMITED","ï¿½ï¿½ï¿½á½»");;
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ALREADYRATED", "ÄãÒÑ¾­Í¶¹ýÆ±");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOTSAVED", "Êý¾ÝÎ´ÄÜ±£´æ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ALREADYRATED","ï¿½ï¿½ï¿½Ñ¾ï¿½Í¶ï¿½ï¿½Æ±");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOTSAVED","ï¿½ï¿½ï¿½ï¿½Î´ï¿½Ü±ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPARTICLE", "ÎÄÕÂ¹ÜÀí");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACTIONDONE", "²Ù×÷³É¹¦¡£");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPCATEGORY", "·ÖÀà¹ÜÀí");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPTOPIC", "×¨Ìâ¹ÜÀí");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPTRACKBACK", "·´À¡¹ÜÀí");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPARTICLE","ï¿½ï¿½ï¿½Â¹ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACTIONDONE","ï¿½ï¿½ï¿½ï¿½ï¿½É¹ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPCATEGORY","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPTOPIC","×¨ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPTRACKBACK","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EMAIL", "ÓÊ¼þ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EMAILADDRESS", "ÓÊ¼þµØÖ·");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CONTENT", "ÄÚÈÝ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLE", "ÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY", "Àà±ð");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INDEX", "Ê×Ò³");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DISCLAIMER", "ÃâÔðÉùÃ÷");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EMAIL","ï¿½Ê¼ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EMAILADDRESS","ï¿½Ê¼ï¿½ï¿½ï¿½Ö·");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CONTENT","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLE","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY","ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INDEX","ï¿½ï¿½Ò³");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DISCLAIMER","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBTITLE", "·ÖÒ³±êÌâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORDS", "¹Ø¼ü´Ê");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDNOTE", "±à¼­¸½×¢");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DATE", "ÈÕÆÚ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBTITLE","ï¿½ï¿½Ò³ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORDS","ï¿½Ø¼ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDNOTE","ï¿½à¼­ï¿½ï¿½×¢");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DATE","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ERROROCCURED", "·¢Éú´íÎó");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_USERNAME", "ÓÃ»§Ãû³Æ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ERROROCCURED","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_USERNAME","ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECTFEED", "Ñ¡ÔñFeedÀàÐÍ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_ARTICLE", "ÎÄÕÂXML");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SOURCE", "À´Ô´");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_CATEGORY", "·ÖÀà %s XML");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_AUTHOR", "×÷Õß %s XML");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_INDEX", "Ê×Ò³XML");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECTFEED","Ñ¡ï¿½ï¿½Feedï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_ARTICLE","ï¿½ï¿½ï¿½ï¿½XML");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SOURCE","ï¿½ï¿½Ô´");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_CATEGORY","ï¿½ï¿½ï¿½ï¿½ %s XML");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_AUTHOR","ï¿½ï¿½ï¿½ï¿½ %s XML");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_XMLDESC_INDEX","ï¿½ï¿½Ò³XML");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PROFILE", "×÷Õß¼ò½é");
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECT_EDITOR", "Ñ¡Ôñ±à¼­Æ÷");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEXT", "ÎÄ±¾ÄÚÈÝ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE_NO", "Ò³Âë %d");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWPAGE", "ÐÂ½¨Ò³Ãæ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE", "¶àÒ³Ãæ±à¼­");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE_DESC", "");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE_TEXT", "Ò³ÃæÎÄ±¾");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PROFILE","ï¿½ï¿½ï¿½ß¼ï¿½ï¿½");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECT_EDITOR","Ñ¡ï¿½ï¿½à¼­ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEXT","ï¿½Ä±ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE_NO","Ò³ï¿½ï¿½ %d");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWPAGE","ï¿½Â½ï¿½Ò³ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE","ï¿½ï¿½Ò³ï¿½ï¿½à¼­");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE_DESC","");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDITPAGE_TEXT","Ò³ï¿½ï¿½ï¿½Ä±ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUMMARY_DESC", "ÕªÒªÃèÊö");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUMMARY_DESC_TEXT", "");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORDS_DESC", "¹Ø¼ü´ÊÃèÊö");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORDS_DESC_TEXT", "");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDNOTE_DESC", "±à¼­¸½×¢ÃèÊö");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDNOTE_DESC_TEXT", "");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUMMARY_DESC","ÕªÒªï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUMMARY_DESC_TEXT","");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORDS_DESC","ï¿½Ø¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORDS_DESC_TEXT","");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDNOTE_DESC","ï¿½à¼­ï¿½ï¿½×¢ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EDNOTE_DESC_TEXT","");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FORUM", "ÂÛÌ³");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FORUM","ï¿½ï¿½Ì³");
 /*
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BLOG", "²©¿Í");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PDF", "PDF");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PRINT", "´òÓ¡");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BOOKMARK", "ÊÕ²Ø");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DC", "DC");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BLOG","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PDF","PDF");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PRINT","ï¿½ï¿½Ó¡");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BOOKMARK","ï¿½Õ²ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DC","DC");
 */
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACKS", "¸ú×ÙÍøÖ·");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEMPLATE_SELECT", "Ñ¡ÔñÄ£°å");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY_BASE", "»ù±¾·ÖÀà");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ELINKS", "Ïà¹ØÁ´½Ó");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ELINKS_DESC", "Á´½ÓÃèÊö");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ELINKS_DESC_TEXT", "");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACKS_DESC", "·´Ïò¸ú×ÙÃèÊö");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACKS_DESC_TEXT", "");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOTIFY_ON_APPROVAL", "ºË×¼Í¨Öª");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PUBLISH_ARTICLE", "·¢±í");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE", "±£´æ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_DRAFT", "±£´æ²Ý¸å");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_EDIT", "±£´æ²¢¼ÌÐø±à¼­");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_PAGE", "É¾³ý¸ÃÒ³");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_ARTICLE", "É¾³ýÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_ARTICLE_CONFIRM", "È·ÈÏÉ¾³ý¸ÃÎÄÕÂ?");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACKS","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEMPLATE_SELECT","Ñ¡ï¿½ï¿½Ä£ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY_BASE","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ELINKS","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ELINKS_DESC","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ELINKS_DESC_TEXT","");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACKS_DESC","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACKS_DESC_TEXT","");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOTIFY_ON_APPROVAL","ï¿½ï¿½×¼Í¨Öª");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PUBLISH_ARTICLE","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_DRAFT","ï¿½ï¿½ï¿½ï¿½Ý¸ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_EDIT","ï¿½ï¿½ï¿½æ²¢ï¿½ï¿½ï¿½ï¿½ï¿½à¼­");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_PAGE","É¾ï¿½ï¿½ï¿½ï¿½Ò³");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_ARTICLE","É¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_ARTICLE_CONFIRM","È·ï¿½ï¿½É¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½?");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MODERATOR_REMOVE", "ÒÆ³ý¹ÜÀíÔ±");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MODERATOR_ADD", "Ìí¼Ó¹ÜÀíÔ±");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DESCRIPTION", "ÃèÊö");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ORDER", "ÅÅÐò");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSOR", "ÔÞÖúÕßÍøÖ·¼°Ãû³Æ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSOR_DESC", "");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSOR_DESC_TEXT", "");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_UPLOAD", "ÉÏ´«Í¼Æ¬");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_SELECT", "Ñ¡ÔñÍ¼Æ¬");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MODERATOR_REMOVE","ï¿½Æ³ï¿½ï¿½ï¿½ï¿½ï¿½Ô±");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MODERATOR_ADD","ï¿½ï¿½Ó¹ï¿½ï¿½ï¿½Ô±");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DESCRIPTION","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ORDER","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSOR","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSOR_DESC","");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSOR_DESC_TEXT","");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_UPLOAD","ï¿½Ï´ï¿½Í¼Æ¬");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_SELECT","Ñ¡ï¿½ï¿½Í¼Æ¬");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TOPIC", "×¨Ìâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FROMLASTDAYS", "´Ó×î½ü %d Ìì");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FROMLASTHOURS", "´Ó×î½ü %d Ð¡Ê±");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_THELASTYEAR", "È¥Äê");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BEGINNING", "´Ó¿ªÊ¼");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TOPIC","×¨ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FROMLASTDAYS","ï¿½ï¿½ï¿½ï¿½ï¿½ %d ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FROMLASTHOURS","ï¿½ï¿½ï¿½ï¿½ï¿½ %d Ð¡Ê±");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_THELASTYEAR","È¥ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BEGINNING","ï¿½Ó¿ï¿½Ê¼");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RSS", "RSS");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RDF", "RDF");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ATOM", "ATOM");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_OPML", "OPML");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RSS","RSS");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RDF","RDF");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ATOM","ATOM");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_OPML","OPML");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPANEL", "¹ÜÀí");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLES", "ÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADDARTICLE", "Ìí¼ÓÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MODERATOR", "¹ÜÀíÔ±");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MYARTICLES", "ÎÒµÄÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_STATS", "×´Ì¬");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FEATURED", "¾«»ª");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TOPICS", "×¨Ìâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMITTED", "ÒÑÌá½»");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PUBLISHED", "ÒÑ·¢²¼");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CREATED", "ÒÑ´´½¨");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGISTERED", "ÒÑ×¢²á");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGULAR", "ÆÕÍ¨");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORIES", "·ÖÀà");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CPANEL","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLES","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADDARTICLE","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MODERATOR","ï¿½ï¿½ï¿½ï¿½Ô±");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MYARTICLES","ï¿½Òµï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_STATS","×´Ì¬");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FEATURED","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TOPICS","×¨ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMITTED","ï¿½ï¿½ï¿½á½»");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PUBLISHED","ï¿½Ñ·ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CREATED","ï¿½Ñ´ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGISTERED","ï¿½ï¿½×¢ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGULAR","ï¿½ï¿½Í¨");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORIES","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBTITLES", "¸±±êÌâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PAGES", "Ò³Ãæ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_URL", "ÎÄÕÂµØÖ·");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACK", "¸ú×ÙµØÖ·");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMITTER", "Ìá½»Õß");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_VIEWS", "ÔÄ¶Á");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RATE", "ÆÀ·Ö");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RATEIT", "Í¶Æ±£¡");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RESETRATE", "ÖØÉèÆÀ·Ö");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBTITLES","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PAGES","Ò³ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_URL","ï¿½ï¿½ï¿½Âµï¿½Ö·");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRACKBACK","ï¿½ï¿½ï¿½Ùµï¿½Ö·");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMITTER","ï¿½á½»ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_VIEWS","ï¿½Ä¶ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RATE","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RATEIT","Í¶Æ±ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RESETRATE","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME", "Ê±¼ä");
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PDF_PAGE", "µÚ %s Ò³");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME","Ê±ï¿½ï¿½");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PDF_PAGE","ï¿½ï¿½ %s Ò³");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PREVIOUS", "<<");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEXT", ">>");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PREVIOUS","<<");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEXT",">>");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEXTOPTIONS",'ÎÄ±¾Ñ¡Ïî');
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOHTML",'ÆôÓÃHTML±ê¼Ç');
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOSMILEY",'ÆôÓÃ±íÇéÍ¼');
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOXCODE",'ÆôÓÃXOOPSÄÚÖÃÂë');
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOBR",'×Ô¶¯»»ÐÐ(ÆôÓÃHTMLÊ±¹Ø±Õ´Ë¹¦ÄÜ)');
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEXTOPTIONS",'ï¿½Ä±ï¿½Ñ¡ï¿½ï¿½');
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOHTML",'ï¿½ï¿½ï¿½ï¿½HTMLï¿½ï¿½ï¿½');
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOSMILEY",'ï¿½ï¿½ï¿½Ã±ï¿½ï¿½ï¿½Í¼');
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOXCODE",'ï¿½ï¿½ï¿½ï¿½XOOPSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½');
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOBR",'ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½HTMLÊ±ï¿½Ø±Õ´Ë¹ï¿½ï¿½ï¿½)');
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSORS", "ÔÞÖú");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSORS","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_CREATE", "ÒÑ´´½¨");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_EXPIRE", "¹ýÆÚ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TYPES", "ÀàÐÍ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NAME", "Ãû³Æ");
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BIO", "´«¼Ç");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_CREATE","ï¿½Ñ´ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_EXPIRE","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TYPES","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NAME","ï¿½ï¿½ï¿½ï¿½");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BIO","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FORMMODE", "±à¼­·½Ê½");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BASIC", "»ù±¾");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADVANCE", "¸ß¼¶");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CUSTOM", "¶¨ÖÆ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FORMMODE","ï¿½à¼­ï¿½ï¿½Ê½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BASIC","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADVANCE","ï¿½ß¼ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CUSTOM","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INVALID_SUBMIT", "±§Ç¸£¬Ìá½»³¬Ê±¡£Çë×ö±¸·Ý²¢ÔÙ´ÎÌá½»¡£");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INVALID_SUBMIT","ï¿½ï¿½Ç¸ï¿½ï¿½ï¿½á½»ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý²ï¿½ï¿½Ù´ï¿½ï¿½á½»ï¿½ï¿½");
 
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORD_ON", "¹Ø¼ü´Ê");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBCATEGORIES", "×Ó·ÖÀà");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORD_ON","ï¿½Ø¼ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBCATEGORIES","ï¿½Ó·ï¿½ï¿½ï¿½");
 
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TAG_LIST", "Tag ÁÐ±í");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TAG_LIST","Tag ï¿½Ð±ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACTIVE", "Õý³£");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EXPIRED", "¹ýÆÚ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_APPROVED", "ÒÑºË×¼");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETED", "É¾³ý");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PENDING", "´ýÉó");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EXPIRATION", "µ½ÆÚÈÕÆÚ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CREATION", "´´½¨ÈÕÆÚ");
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADD", "Ìí¼Ó");
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECT", "Ñ¡Ôñ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_APPROVE", "ºË×¼");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FEATUREIT", "±ê¼Ç¾«»ª");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_UNFEATUREIT", "È¡Ïû¾«»ª");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TERMINATE", "ÒÆ³ý");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGISTERTOPIC", "Ìí¼Óµ½×¨Ìâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACTIONS", "²Ù×÷");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACTIVE","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EXPIRED","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_APPROVED","ï¿½Ñºï¿½×¼");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETED","É¾ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PENDING","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_EXPIRATION","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CREATION","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADD","ï¿½ï¿½ï¿½");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECT","Ñ¡ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_APPROVE","ï¿½ï¿½×¼");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FEATUREIT","ï¿½ï¿½Ç¾ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_UNFEATUREIT","È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TERMINATE","ï¿½Æ³ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGISTERTOPIC","ï¿½ï¿½Óµï¿½×¨ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACTIONS","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMISSION", "Ìá½»");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PUBLISH", "·¢²¼");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGISTER", "×¢²á");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FEATURE", "¾«»ª");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMISSION","ï¿½á½»");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PUBLISH","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGISTER","×¢ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FEATURE","ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HEADINGS", "±êÌâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOTES", "¸½×¢");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HEADINGS","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NOTES","ï¿½ï¿½×¢");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FROM", "À´×Ô"); // Trackback
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FROM","ï¿½ï¿½ï¿½ï¿½"); // Trackback
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_VIEWALL", "ÔÄ¶ÁÍêÕûÎÄ±¾");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_COMMENTS", "ÆÀÂÛ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CLICKTOCOPY", "µã»÷¿½±´");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_VIEWALL","ï¿½Ä¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä±ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_COMMENTS","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CLICKTOCOPY","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACHIVE", "²éÔÄ¹éµµÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTHLY", "°´ÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_Y", "%s"); // Year
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_YM", "%2\$s - %1\$s"); // Year - Month
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_YMD", "%1\$s - %2\$s - %3\$s"); // Year - Month - Day
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ACHIVE","ï¿½ï¿½ï¿½Ä¹éµµï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTHLY","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_Y","%s"); // Year
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_YM","%2\$s - %1\$s"); // Year - Month
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_YMD","%1\$s - %2\$s - %3\$s"); // Year - Month - Day
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_1", "Ò»ÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_2", "¶þÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_3", "ÈýÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_4", "ËÄÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_5", "ÎåÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_6", "ÁùÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_7", "ÆßÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_8", "°ËÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_9", "¾ÅÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_10", "Ê®ÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_11", "Ê®Ò»ÔÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_12", "Ê®¶þÔÂ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_1","Ò»ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_2","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_3","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_4","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_5","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_6","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_7","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_8","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_9","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_10","Ê®ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_11","Ê®Ò»ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MONTH_12","Ê®ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_1", "ÐÇÆÚÒ»");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_2", "ÐÇÆÚ¶þ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_3", "ÐÇÆÚÈý");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_4", "ÐÇÆÚËÄ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_5", "ÐÇÆÚÎå");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_6", "ÐÇÆÚÁù");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_7", "ÐÇÆÚÈÕ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_1","ï¿½ï¿½ï¿½ï¿½Ò»");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_2","ï¿½ï¿½ï¿½Ú¶ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_3","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_4","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_5","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_6","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_7","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CAPTION", "Í¼Æ¬±êÌâ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CURRENT", "µ±Ç°Í¼Æ¬");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CAPTION","Í¼Æ¬ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CURRENT","ï¿½ï¿½Ç°Í¼Æ¬");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPOTLIGHT", "½¹µã");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_LIST", "ÎÄÕÂÁÐ±í");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPOTLIGHT","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_LIST","ï¿½ï¿½ï¿½ï¿½ï¿½Ð±ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DRAFTS", "²Ý¸å");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DRAFTS","ï¿½Ý¸ï¿½");
 
 /*
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER", "¹¤¾ßÏä");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER_DESC", "½«¸ÃÎÄÕÂ×ªµ½ÆäËûÓ¦ÓÃÖÐ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER_DONE", "²Ù×÷ÒÑ³É¹¦Ö´ÐÐ: %s");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER_DESC","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER_DONE","ï¿½ï¿½ï¿½ï¿½ï¿½Ñ³É¹ï¿½Ö´ï¿½ï¿½: %s");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECTEDITOR", "Ñ¡Ôñ±à¼­Æ÷");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REQUIRED", "±ØÌîÏî");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECTEDITOR","Ñ¡ï¿½ï¿½à¼­ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REQUIRED","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 */
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REMOVE", "Çå³ý");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REMOVE","ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_BEFORE_SWITCH", "Ò³Ãæ×ª»»Ç°×¢Òâ±£´æÊý¾Ý");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWPAGE_AVAILABLE", "±£´æµÚÒ»Ò³Ö®ºó¿ÉÒÔ¼ÌÐøÌí¼Ó¸ü¶àÒ³Ãæ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_BEFORE_SWITCH","Ò³ï¿½ï¿½×ªï¿½ï¿½Ç°×¢ï¿½â±£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWPAGE_AVAILABLE","ï¿½ï¿½ï¿½ï¿½ï¿½Ò»Ò³Ö®ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½Ó¸ï¿½ï¿½ï¿½Ò³ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MOVE_CATEGORYANDARTICLE", "ËùÓÐ×Ó·ÖÀàºÍÎÄÕÂ½«±»×ªÒÆµ½ÉÏ²ã·ÖÀàÏÂ.");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_CATEGORYANDARTICLE", "ËùÓÐ×Ó·ÖÀàºÍÎÄÕÂ½«±»´ÓÊý¾Ý¿âÖÐÉ¾³ý.");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CONFIG_CATEGORYANDARTICLE", "¸ÃÑ¡Ïî¿ÉÒÔÍ¨¹ýÐÞ¸Ä article/include/plugin.php ÖÐµÄ \$GLOBALS[\"xoopsModuleConfig\"][\"category_delete_forced\"] ½øÐÐÉèÖÃ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MOVE_CATEGORYANDARTICLE","ï¿½ï¿½ï¿½ï¿½ï¿½Ó·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â½ï¿½ï¿½ï¿½×ªï¿½Æµï¿½ï¿½Ï²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_CATEGORYANDARTICLE","ï¿½ï¿½ï¿½ï¿½ï¿½Ó·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý¿ï¿½ï¿½ï¿½É¾ï¿½ï¿½.");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CONFIG_CATEGORYANDARTICLE","ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½ï¿½ï¿½Í¨ï¿½ï¿½ï¿½Þ¸ï¿½ article/include/plugin.php ï¿½Ðµï¿½ \$GLOBALS[\"xoopsModuleConfig\"][\"category_delete_forced\"] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY1_CAN_NOT_DELETE", "ÐòÁÐºÅcat_id=1µÄÀà±ð²»ÔÊÐí±»É¾³ý");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY1_CAN_NOT_DELETE","ï¿½ï¿½ï¿½Ðºï¿½cat_id=1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É¾ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PARENT_CATEGORY", "ÉÏ²ãÀà±ð");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ENTRY_SELECT", "Ñ¡ÔñÊ×Ò³ÎÄÕÂ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLE_SELECT", "Ñ¡ÔñÎÄÕÂ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PARENT_CATEGORY","ï¿½Ï²ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ENTRY_SELECT","Ñ¡ï¿½ï¿½ï¿½ï¿½Ò³ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLE_SELECT","Ñ¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DEFAULT", "È±Ê¡");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DESC", "µ¹Ðò");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ASC", "Ë³Ðò");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SORTORDER", '°´%1$s%2$s'); // sort, order
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DEFAULT","È±Ê¡");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DESC","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ASC","Ë³ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SORTORDER", 'ï¿½ï¿½%1$s%2$s'); // sort, order
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_UPDATE_TIME", "¸üÐÂÈÕÆÚ");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_UPDATE_TIME","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_ARTICLE", "ÎÄÕÂÌâÍ·Í¼Æ¬");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_UPLOADED", "ÒÑÉÏ´«µÄÍ¼Æ¬");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_ARTICLE","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í·Í¼Æ¬");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_UPLOADED","ï¿½ï¿½ï¿½Ï´ï¿½ï¿½ï¿½Í¼Æ¬");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP", "°ïÖú");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_PUBLISH_ARTICLE", "±£´æµ±Ç°ÄÚÈÝ²¢Ìá½»·¢±í£¨¸ù¾ÝÈ¨ÏÞÉè¶¨£¬Ä³Ð©Çé¿öÏÂÐèÒª¾­¹ý¹ÜÀíÔ±ÉóºËºó²ÅÄÜ¹«¿ª·¢²¼£©");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE", "±£´æµ±Ç°Ò³ÃæÄÚÈÝ");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_EDIT", "±£´æµ±Ç°Ò³ÃæÄÚÈÝ²¢·µ»Ø¼ÌÐø±à¼­£¨Èç¹ûµ±Ç°ÎÄÕÂ×´Ì¬ÎªÎ´·¢±í×´Ì¬£¬ÔòÐèÒªÌá½»·¢±íÒÔºóÎÄÕÂ²ÅÄÜ±»¹«¿ª·¢²¼£©");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_DRAFT", "±£´æµ±Ç°ÎÄÕÂÎªË½ÈË²Ý¸å£¨Ö»ÓÐ×÷Õß×Ô¼º¿ÉÔÄÀÀ£¬³¬¹ýÆÚÏÞÈç¹û²»Ìá½»·¢±í»á×Ô¶¯É¾³ý£©");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP","ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_PUBLISH_ARTICLE","ï¿½ï¿½ï¿½æµ±Ç°ï¿½ï¿½ï¿½Ý²ï¿½ï¿½á½»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¨ï¿½ï¿½ï¿½è¶¨ï¿½ï¿½Ä³Ð©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô±ï¿½ï¿½Ëºï¿½ï¿½ï¿½Ü¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE","ï¿½ï¿½ï¿½æµ±Ç°Ò³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_EDIT","ï¿½ï¿½ï¿½æµ±Ç°Ò³ï¿½ï¿½ï¿½ï¿½ï¿½Ý²ï¿½ï¿½ï¿½ï¿½Ø¼ï¿½ï¿½ï¿½ï¿½à¼­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ï¿½ï¿½ï¿½×´Ì¬ÎªÎ´ï¿½ï¿½ï¿½ï¿½×´Ì¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½á½»ï¿½ï¿½ï¿½ï¿½ï¿½Ôºï¿½ï¿½ï¿½ï¿½Â²ï¿½ï¿½Ü±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_DRAFT","ï¿½ï¿½ï¿½æµ±Ç°ï¿½ï¿½ï¿½ï¿½ÎªË½ï¿½Ë²Ý¸å£¨Ö»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½á½»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¶ï¿½É¾ï¿½ï¿½ï¿½ï¿½");
 ?>

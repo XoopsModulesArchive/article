@@ -137,7 +137,7 @@ define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBMITTED","Submitted");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PUBLISHED","Published");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CREATED","Created");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGISTERED","Registered");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGULAR", "Regular");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REGULAR","Regular");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORIES","Categories");
 
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBTITLES","Subtitles");
@@ -150,11 +150,11 @@ define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RATE","Rate");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RATEIT","Rate it!");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_RESETRATE","Reset rate");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME", "Time");
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PDF_PAGE", "Page %s");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME","Time");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PDF_PAGE","Page %s");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PREVIOUS", "<<");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEXT", ">>");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PREVIOUS","<<");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEXT",">>");
 
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TEXTOPTIONS",'Text options');
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOHTML",'Enable html tags');
@@ -162,22 +162,22 @@ define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOSMILEY",'Enable Smiley');
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOXCODE",'Enable Xoops Code');
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DOBR",'Enable line break (Suggest to turn off if HTML enabled)');
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSORS", "Sponsors");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPONSORS","Sponsors");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_CREATE", "Created");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_EXPIRE", "Expire");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TYPES", "Types");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NAME", "Name");
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BIO", "Biography");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_CREATE","Created");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TIME_EXPIRE","Expire");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TYPES","Types");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NAME","Name");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BIO","Biography");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FORMMODE", "Form mode");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BASIC", "Basic");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADVANCE", "Advanced");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CUSTOM", "Custom");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_FORMMODE","Form mode");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_BASIC","Basic");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ADVANCE","Advanced");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CUSTOM","Custom");
 
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_INVALID_SUBMIT","Invalid submission. You could have exceeded session time. Please make a backup and resubmit.");
 
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORD_ON", "Keyword on");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_KEYWORD_ON","Keyword on");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SUBCATEGORIES","Subcategories");
 
 //define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TAG_LIST","Tag List");
@@ -239,50 +239,50 @@ define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_5","Fri");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_6","Sat");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_WEEK_7","Sun");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CAPTION", "Image caption");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CURRENT", "Current image");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CAPTION","Image caption");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_CURRENT","Current image");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPOTLIGHT", "Spotlight");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_LIST", "Article list");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SPOTLIGHT","Spotlight");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_LIST","Article list");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DRAFTS", "Drafts");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DRAFTS","Drafts");
 
 /*
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER", "Transfer");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER_DESC", "Transfer the article to other applications");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER","Transfer");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER_DESC","Transfer the article to other applications");
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_TRANSFER_DONE","The action is done successully: %s");
 
 define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SELECTEDITOR","Select editor");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REQUIRED", "Required");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REQUIRED","Required");
 */
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REMOVE", "Remove");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_REMOVE","Remove");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_BEFORE_SWITCH", "Save before switching to another page");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWPAGE_AVAILABLE", "Once save the first page, you can add more pages");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SAVE_BEFORE_SWITCH","Save before switching to another page");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_NEWPAGE_AVAILABLE","Once save the first page, you can add more pages");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MOVE_CATEGORYANDARTICLE", "All its subcategories and articles will be moved to its parent category.");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_CATEGORYANDARTICLE", "All its subcategories and articles will be DELETED from database.");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CONFIG_CATEGORYANDARTICLE", "The configuration can be changed from article/include/plugin.php \$GLOBALS[\"xoopsModuleConfig\"][\"category_delete_forced\"]");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_MOVE_CATEGORYANDARTICLE","All its subcategories and articles will be moved to its parent category.");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DELETE_CATEGORYANDARTICLE","All its subcategories and articles will be DELETED from database.");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CONFIG_CATEGORYANDARTICLE","The configuration can be changed from article/include/plugin.php \$GLOBALS[\"xoopsModuleConfig\"][\"category_delete_forced\"]");
 
-//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY1_CAN_NOT_DELETE", "The category with cat_id=1 is not allowed to delete");
+//define($GLOBALS["ART_VAR_PREFIXU"]."_MD_CATEGORY1_CAN_NOT_DELETE","The category with cat_id=1 is not allowed to delete");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PARENT_CATEGORY", "Parent category");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ENTRY_SELECT", "Select entry article");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLE_SELECT", "Select article");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_PARENT_CATEGORY","Parent category");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ENTRY_SELECT","Select entry article");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ARTICLE_SELECT","Select article");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DEFAULT", "Default");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DESC", "DESC");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ASC", "ASC");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SORTORDER", "Sort by %1\$s in %2\$s"); // sort, order
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DEFAULT","Default");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_DESC","DESC");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_ASC","ASC");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_SORTORDER","Sort by %1\$s in %2\$s"); // sort, order
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_UPDATE_TIME", "Update time");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_ARTICLE", "Article spotlight image");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_UPLOADED", "Uploaded image");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_UPDATE_TIME","Update time");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_ARTICLE","Article spotlight image");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_IMAGE_UPLOADED","Uploaded image");
 
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP", "Help");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_PUBLISH_ARTICLE", "Save current contents and submit to publish (Approval may be required subject to permissions)");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE", "Save current contents");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_EDIT", "Save current contents and return to the edit page (To publish the article, if not published yet, it is required to submit to publich)");
-define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_DRAFT", "Save current article as private draft (Only accessible to author himself, will be deleted on expiration)");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP","Help");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_PUBLISH_ARTICLE","Save current contents and submit to publish (Approval may be required subject to permissions)");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE","Save current contents");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_EDIT","Save current contents and return to the edit page (To publish the article, if not published yet, it is required to submit to publich)");
+define($GLOBALS["ART_VAR_PREFIXU"]."_MD_HELP_SAVE_DRAFT","Save current article as private draft (Only accessible to author himself, will be deleted on expiration)");
 
 ?>
