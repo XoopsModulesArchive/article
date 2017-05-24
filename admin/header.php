@@ -24,5 +24,5 @@ include_once XOOPS_ROOT_PATH . "/Frameworks/art/functions.admin.php";
 
 xoops_loadLanguage("main", $xoopsModule->getVar("dirname"));
 art_define_url_delimiter();
-$myts =& MyTextSanitizer::getInstance();
+$myts = MyTextSanitizer::getInstance();
 ?>

@@ -32,7 +32,7 @@ class Pingback extends XoopsObject
     function Pingback($id = null)
     {
         //$this->ArtObject();
-        //$this->db =& Database::getInstance();
+        //$this->db = Database::getInstance();
         //$this->table = art_DB_prefix("pingback");
         $this->initVar("pb_id", XOBJ_DTYPE_INT, null);
         $this->initVar("art_id", XOBJ_DTYPE_INT, 0, true);

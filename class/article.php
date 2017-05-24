@@ -191,7 +191,7 @@ class Article extends XoopsObject
      */
     function getSummary($actionOnEmpty = false, $dohtml = true)
     {
-        $myts =& MyTextSanitizer::getInstance();
+        $myts = MyTextSanitizer::getInstance();
         $summary = $this->getVar("art_summary", "n");
         if (empty($summary) && !empty($actionOnEmpty)) {
             $pages = $this->getPages();

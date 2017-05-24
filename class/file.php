@@ -32,7 +32,7 @@ class Xfile extends XoopsObject
     function Xfile($id = null)
     {
 	    //$this->ArtObject();
-        //$this->db =& Database::getInstance();
+        //$this->db = Database::getInstance();
         $this->table = art_DB_prefix("file");
         $this->initVar("file_id", XOBJ_DTYPE_INT, null);
         $this->initVar("art_id", XOBJ_DTYPE_INT, 0, true);
