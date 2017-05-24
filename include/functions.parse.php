@@ -151,7 +151,7 @@ function art_parse_function($function_string, $pattern = "", $replacement = "")
  */
 function &art_parseLinks($text)
 {
-    $myts =& MyTextSanitizer::getInstance();
+    $myts = MyTextSanitizer::getInstance();
     $link_array = preg_split("/(\r\n|\r|\n)( *)/", $text);
     $links = array();
     foreach ($link_array as $link) {

@@ -163,7 +163,7 @@ function &art_htmlSpecialChars(&$text)
 
 function &art_displayTarea(&$text, $html = 1, $smiley = 1, $xcode = 1, $image = 1, $br = 1)
 {
-    $myts =& MyTextSanitizer::getInstance();
+    $myts = MyTextSanitizer::getInstance();
     if ($html != 1) {
         // html not allowed
         $text = art_htmlSpecialChars($text);

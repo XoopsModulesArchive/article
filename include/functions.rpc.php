@@ -34,7 +34,7 @@ function art_trackback($trackback_url, &$article)
 {
     global $myts, $xoopsConfig, $xoopsModule, $xoopsModuleConfig;
 
-    $myts =& MyTextSanitizer::getInstance();
+    $myts = MyTextSanitizer::getInstance();
     $title = $article->getVar("art_title");
     $excerpt = $article->getSummary();
     $blog_name = $xoopsConfig["sitename"] . "-" . $xoopsModule->getVar("name");

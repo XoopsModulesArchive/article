@@ -22,5 +22,5 @@ include XOOPS_ROOT_PATH . "/modules/" . $xoopsModule->getVar("dirname") . "/incl
 mod_loadFunctions("", $xoopsModule->getVar("dirname"));
 
 art_define_url_delimiter();
-$myts =& MyTextSanitizer::getInstance();
+$myts = MyTextSanitizer::getInstance();
 ?>

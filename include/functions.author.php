@@ -53,7 +53,7 @@ function &art_getWriterNameFromIds( $writer_ids, $linked = false )
     }
     $userid = array_map("intval", array_filter($writer_ids));
     
-    $myts =& MyTextSanitizer::getInstance();
+    $myts = MyTextSanitizer::getInstance();
     $users = array();
     if (count($userid) > 0) {
         $sql = 'SELECT writer_id, writer_name FROM ' . art_DB_prefix("writer"). ' WHERE writer_id IN(' . implode(",", array_unique($userid)) . ')';
